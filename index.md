@@ -1,3 +1,7 @@
+[stream](about.md)
+[word-making](blog.md)
+
+
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
